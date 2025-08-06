@@ -39,4 +39,4 @@ To run this project, you'll need Python installed on your system and an **OpenAI
     python Main.py
     ```
 
-The program will then guide you through a series of questions to generate your personalized plan.
+
