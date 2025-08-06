@@ -20,8 +20,8 @@ To run this project, you'll need Python installed on your system and an **OpenAI
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YourUsername/YourProjectName.git
-    cd YourProjectName
+    git clone https://github.com/parisa-kavian/AI-Plan-Generator.git
+   
     ```
 
 2.  **Install the dependencies:**
@@ -36,7 +36,7 @@ To run this project, you'll need Python installed on your system and an **OpenAI
 4.  **Run the script:**
 
     ```bash
-    python your_main_script_name.py
+    python Main.py
     ```
 
 The program will then guide you through a series of questions to generate your personalized plan.
